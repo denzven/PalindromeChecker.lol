@@ -1,32 +1,30 @@
 HAI 1.2
 
 OBTW 
-Sup! I am Denz
-And this is a PalindromeChecker in LOLCODE
-and yes it was brain melting lol
+SUP I AM DENZVEN
+THIS IS A PalindromeChecker IN LOLCODE 
 TLDR
 
-BTW This declares a variable and takes input
-I HAS A InputNumber 
-VISIBLE "Enter Number::"!
-GIMMEH InputNumber
-InputNumber IS NOW A NUMBR 
+BTW THIS DECLARES A VARIABLE
+I HAS A INWUTNUMBR 
+VISIBLE "GIMMEH NUMBER!::"!
+GIMMEH INWUTNUMBR
+INWUTNUMBR IS NOW A NUMBR 
 
-BTW These are some variables put in place
-I HAS A TemporaryVariable ITZ InputNumber
-I HAS A ReversedNumber ITZ 0
-I HAS A RemainderNumber
+BTW THESE SOME VARIABLES
+I HAS A TEMPNUMBAH ITZ INWUTNUMBR
+I HAS A REVERSENUMBR ITZ 0
+I HAS A REMAINDERNUMBR
 
 OBTW 
-This function loops and reverses the input number
-which is now stored within a TemporaryVariable
+THIS LOOPS LOOPYDOOPY
 TLDR
 
-I HAS A LooperVar ITZ 0
-IM IN YR LOOP UPPIN YR LooperVar TIL BOTH SAEM TemporaryVariable AN 0
-    RemainderNumber R MOD OF TemporaryVariable AN 10 
-    ReversedNumber R SUM OF PRODUKT OF ReversedNumber AN 10 AN RemainderNumber
-    TemporaryVariable R QUOSHUNT OF TemporaryVariable AN 10
+I HAS A LOOPYDOOPY ITZ 0
+IM IN YR LOOP UPPIN YR LOOPYDOOPY TIL BOTH SAEM TEMPNUMBAH AN 0
+    REMAINDERNUMBR R MOD OF TEMPNUMBAH AN 10 
+    REVERSENUMBR R SUM OF PRODUKT OF REVERSENUMBR AN 10 AN REMAINDERNUMBR
+    TEMPNUMBAH R QUOSHUNT OF TEMPNUMBAH AN 10
 IM OUTTA YR LOOP
 
 OBTW
@@ -34,12 +32,12 @@ This Compares the two input and the reversed number,
 to determine wheter or not the number is a Palindrome
 TLDR
 
-BOTH SAEM InputNumber AN ReversedNumber
+BOTH SAEM INWUTNUMBR AN REVERSENUMBR
     O RLY?
         YA RLY
-            VISIBLE SMOOSH InputNumber " is a Palindrome"
+            VISIBLE SMOOSH INWUTNUMBR " is a Palindrome"
         NO WAI
-            VISIBLE SMOOSH InputNumber " is Not a Palindrome"
+            VISIBLE SMOOSH INWUTNUMBR " is Not a Palindrome"
     OIC
 
 OBTW 
