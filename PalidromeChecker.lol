@@ -28,8 +28,8 @@ IM IN YR LOOP UPPIN YR LOOPYDOOPY TIL BOTH SAEM TEMPNUMBAH AN 0
 IM OUTTA YR LOOP
 
 OBTW
-This Compares the two input and the reversed number,
-to determine wheter or not the number is a Palindrome
+WE COMPAR TWO VAR AND GET WHETHR OR NOT 
+ITS A Palindrome
 TLDR
 
 BOTH SAEM INWUTNUMBR AN REVERSENUMBR
@@ -41,8 +41,8 @@ BOTH SAEM INWUTNUMBR AN REVERSENUMBR
     OIC
 
 OBTW 
-This is the End of the Program 
-Hope you liked it!
-Pls Star this repo
+PROGRAM ENDED!
+IK U LIEKED IT
+STAR REPO PLS
 TLDR
 KTHXBYE
